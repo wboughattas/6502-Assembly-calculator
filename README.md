@@ -29,4 +29,5 @@ From the VICE package, use the x64sc application to run the Commodore 64 Emulato
 * **Wasim Boughattas** - [wboughattas](https://github.com/wboughattas)
 
 ## Demo
-![](https://github.com/wboughattas/6502-Assembly-calculator/blob/main/Report.pdf)
+![](https://github.com/wboughattas/6502-Assembly-calculator/blob/main/Demo.gif)
+
